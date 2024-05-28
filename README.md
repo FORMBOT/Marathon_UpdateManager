@@ -21,6 +21,12 @@ By selecting 'update' for the 'Marathon' component from the 'Update Manager' in 
 ![image](https://github.com/FORMBOT/Marathon_UpdateManager/assets/73830817/1f5c65ee-3295-4c14-8233-b90a66a1f21d)
 
 
-## Enjoy and Happy printing !
+## Enjoy and Happy Printing
+
+Yours, Formbot Team ! :)
+
+https://www.formbot3d.com/
+
+![image](https://github.com/FORMBOT/Marathon/assets/73830817/c5c75fbc-0f3b-45f6-9250-319c1e67f1dc)
 
 
