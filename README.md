@@ -1,7 +1,8 @@
 # Marathon Update Manager
 
 
-![image](https://github.com/FORMBOT/Marathon_UpdateManager/assets/73830817/cdacd3aa-c226-499a-8ef4-29ae6994103d)
+                           ![image](https://github.com/FORMBOT/Marathon_UpdateManager/assets/73830817/7e0e90cf-ac8a-4200-bc9b-f02b036d3220)
+
 
 
 Under this repository, the relevant files for successfully operating the Marathon IDEX 3D Printer are maintained and constantly updated.
