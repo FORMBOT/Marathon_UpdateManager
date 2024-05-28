@@ -1,6 +1,9 @@
 # Marathon Update Manager
 
 
+![image](https://github.com/FORMBOT/Marathon_UpdateManager/assets/73830817/cdacd3aa-c226-499a-8ef4-29ae6994103d)
+
+
 Under this repository, the relevant files for successfully operating the Marathon IDEX 3D Printer are maintained and constantly updated.
 
 - Klipper Configs
