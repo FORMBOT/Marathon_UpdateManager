@@ -11,7 +11,7 @@ Under this repository, the relevant files for successfully operating the Maratho
 - Slicer Profiles
 - Assembly and Operation Manual
 - STL Files
-- Ofitial MODs and upgrades
+- Official MODs and upgrades
 - etc
 
 By selecting 'update' for the 'Marathon' component from the 'Update Manager' in the Mainsail interface, all the components mentioned above will be updated and saved in the '0__Marathon' folder in your 'config' menu. 
