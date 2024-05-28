@@ -1,7 +1,7 @@
 # Marathon Update Manager
 
 
-                           ![image](https://github.com/FORMBOT/Marathon_UpdateManager/assets/73830817/7e0e90cf-ac8a-4200-bc9b-f02b036d3220)
+  ![image](https://github.com/FORMBOT/Marathon_UpdateManager/assets/73830817/7e0e90cf-ac8a-4200-bc9b-f02b036d3220)
 
 
 
